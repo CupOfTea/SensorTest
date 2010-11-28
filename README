@@ -1,0 +1,10 @@
+
+  Arduino code to read a sensor or two
+  
+  the sensors coded are Devantech SRF05 Ultrasonic
+                        Sharp Infrared GP2Y0A02 , GP2D120
+ 
+  output is to the serial port where it can be read by the included Processing Script GraphAndSaveSerial
+  
+  there is "some" documentation in the programs
+    
